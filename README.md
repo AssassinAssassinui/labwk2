@@ -1,4 +1,4 @@
-# Open source practice [![](https://github.com/AssassinAssassinui/labwk2/workflows/tests/badge.svg)](https://github.    com/AssassinAssassinui/labwk2/actions?query=workflow%3Atests)
+# Open source practice [![](https://github.com/AssassinAssassinui/labwk2/workflows/tests/badge.svg)](https://github.com/AssassinAssassinui/labwk2/actions?query=workflow%3Atests)
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
 
